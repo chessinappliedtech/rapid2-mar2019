@@ -1,0 +1,62 @@
+﻿[
+  {
+    "id": "ilya.maltsev",
+    "firstName": "Илья",
+    "lastName": "Мальцев"
+  },
+  {
+    "id": "alexey.matveev",
+    "firstName": "Алексей",
+    "lastName": "Матвеев"
+  },
+  {
+    "id": "alexey.biryukov",
+    "firstName": "Алексей",
+    "lastName": "Бирюков"
+  },
+  {
+    "id": "alexey.shimeshov",
+    "firstName": "Алексей",
+    "lastName": "Шимешов"
+  },
+  {
+    "id": "anatoly.morozov",
+    "firstName": "Анатолий",
+    "lastName": "Морозов"
+  },
+  {
+    "id": "alexander.shkabara",
+    "firstName": "Александр",
+    "lastName": "Шкабара"
+  },
+  {
+    "id": "alexey.shklyar",
+    "firstName": "Алексей",
+    "lastName": "Шкляр"
+  },
+  {
+    "id": "vladimir.kudryakov",
+    "firstName": "Владимир",
+    "lastName": "Кудряков"
+  },
+  {
+    "id": "viktor.bornov",
+    "firstName": "Виктор",
+    "lastName": "Борнов"
+  },
+  {
+    "id": "alexander.panchenko",
+    "firstName": "Александр",
+    "lastName": "Панченко"
+  },
+  {
+    "id": "pavel.davydov",
+    "firstName": "Павел",
+    "lastName": "Давыдов"
+  },
+  {
+    "id": "ivan.klyavin",
+    "firstName": "Иван",
+    "lastName": "Клявин"
+  }
+]

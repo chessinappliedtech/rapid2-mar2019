@@ -1,0 +1,45 @@
+{
+  "tournamentTitle": "Быстрые шахматы №2. Март-Апрель 2019",
+  "tournamentId": "rapid2.mar2019",
+  "players": [
+    "ilya.maltsev",
+    "alexey.matveev",
+    "alexey.biryukov",
+    "anatoly.morozov",
+    "alexey.shimeshov",
+    "alexey.shklyar",
+    "viktor.bornov",
+    "vladimir.kudryakov",
+    "alexander.shkabara",
+    "alexander.panchenko",
+    "pavel.davydov",
+    "ivan.klyavin"
+  ],
+  "arbiter": "ilya.maltsev",
+  "deputyArbiters": [
+    "alexey.matveev",
+    "alexey.biryukov",
+    "anatoly.morozov"
+  ],
+  "gameWriters": [
+    "alexey.matveev",
+    "alexey.biryukov",
+    "anatoly.morozov",
+    "alexey.shklyar",
+    "ilya.maltsev"
+  ],
+  "regulations": "Турнир №2 по быстрым шахматам. Проводим с 4-го марта по 24-апреля включительно. <br>Играем по <b>круговой схеме</b> с контролем времени 10 минут + 10 секунд добавление на ход.<br>Каждый играет с соперником <b>две</b> партии, одну белыми, одну чёрными.<br>Конкретные дата и время игр не фиксированы, играем по готовности, но не затягиваем.<br>Тай-брейк коэффициенты: количество побед, Neustadtl (Sonneborn-Berger), Koya.<br><br>По окончании круговой части турнира 25-го и 26-го апреля играем тай-брейк между первыми четырьмя местами.<br>Жеребьёвку проведём выбором из корзины вслепую. В полуфинале играются две игры с контролем 5+3. В случае ничьей играется армагеддон: одна партия, белые 5+3, чёрные 4+3, цвет определяем подбрасыванием монеты, ничья трактуется в пользу чёрных. За третье место играют проигравшие в полуфинале по тому же регламенту. В финале играем 2 игры с контролем 5+3, при ничьей ещё две партии с тем же контролем, дальше армагеддон.",
+  "tournamentSetup": {
+    "type": "round-robin",
+    "game-result-system": "STANDARD",
+    "time-control-type": "RAPID",
+    "rounds-amount": 2,
+    "tie-breaks": [
+      "direct-encounter",
+      "number-of-wins",
+      "neustadtl",
+      "koya"
+    ]
+  },
+  "startDay": "2019-03-04"
+}
