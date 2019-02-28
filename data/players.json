@@ -58,5 +58,10 @@
     "id": "ivan.klyavin",
     "firstName": "Иван",
     "lastName": "Клявин"
+  },
+  {
+    "id": "mikhail.egorov",
+    "firstName": "Михаил",
+    "lastName": "Егоров"
   }
 ]
