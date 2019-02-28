@@ -24,6 +24,14 @@
     }
   },
   {
+    "playerId": "alexander.brezgin",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
     "playerId": "alexey.shimeshov",
     "kvalues": {
       "classic": 40,
