@@ -1,3 +1,16 @@
 [
-
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "mikhail.egorov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "04-03-2019",
+    "result": "draw"
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "anatoly.morozov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "04-03-2019",
+    "result": "ww"
+  }
 ]
