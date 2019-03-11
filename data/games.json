@@ -12,5 +12,12 @@
     "tournamentId": "rapid2.mar2019",
     "date": "04-03-2019",
     "result": "ww"
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "ilya.maltsev",
+    "tournamentId": "rapid2.mar2019",
+    "date": "11-03-2019",
+    "result": "bw"
   }
 ]
