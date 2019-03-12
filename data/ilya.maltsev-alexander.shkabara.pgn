@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019"]
+[Site "https://lichess.org/afTy2x4k"]
+[Date "12.03.2019, 16:55:44"]
+[Round "-"]
+[White "Илья Мальцев"]
+[Black "Александр Шкабара"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 { C55 Italian Game: Two Knights Defense, Modern Bishop's Opening } h6 5. Be3 d6 6. c3 Be7 7. h3 O-O 8. b4 a6 9. a4 d5 10. exd5 Nxd5 11. O-O Bf5 12. Qe2 Re8 13. Nfd2 Bf6 14. Ne4 Bxe4 15. dxe4 Nf4 16. g3 Nxe2+ 17. Bxe2 Bg5 18. f4 Be7 19. Nd2 exf4 20. gxf4 Bh4 21. Kh2 f5 22. e5 Re6 23. Bc4 Qe7 24. Nf3 Nd8 25. Nxh4 Qxh4 26. Rg1 Kh7 27. Bxe6 Nxe6 28. Rg3 Nxf4 29. Rag1 g5 30. Bxf4 gxf4 31. Rg7+ Kh8 32. R1g2 f3 33. R2g3 Qf4 34. Kg1 Qxe5 35. R7g6 Qf4 36. Kf2 Rd8 37. Rg1 Qh2+ 38. Kxf3 Rd3# { Black wins by checkmate. } 0-1

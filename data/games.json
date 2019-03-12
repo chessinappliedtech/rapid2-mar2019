@@ -30,5 +30,16 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/jsAgTNu2"
     }
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexander.shkabara",
+    "tournamentId": "rapid2.mar2019",
+    "date": "12-03-2019",
+    "result": "bw",
+    "pgnLocation": "data/ilya.maltsev-alexander.shkabara.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/afTy2x4k"
+    }
   }
 ]
