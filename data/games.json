@@ -41,5 +41,27 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/afTy2x4k"
     }
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "ilya.maltsev",
+    "tournamentId": "rapid2.mar2019",
+    "date": "13-03-2019",
+    "result": "ww",
+    "pgnLocation": "data/alexey.shklyar-ilya.maltsev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/5A5IKFV3"
+    }
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexey.biryukov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "13-03-2019",
+    "result": "ww",
+    "pgnLocation": "data/ilya.maltsev-alexey.biryukov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/"
+    }
   }
 ]
