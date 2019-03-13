@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019"]
+[Site "https://lichess.org/XzzshqMl"]
+[Date "13.03.2019, 14:31:13"]
+[Round "-"]
+[White "Илья Мальцев"]
+[Black "Алексей Бирюков"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 { C55 Italian Game: Two Knights Defense, Modern Bishop's Opening } d5 5. exd5 Nxd5 6. Qe2 f6 7. Nc3 Nf4 8. Bxf4 Bd6 9. O-O g5 10. Nxg5 fxg5 11. Qh5+ Kd7 12. Be6+ Kxe6 13. Qg4+ Kf7 14. Qh5+ Kf8 15. Bxg5 Be7 16. Bh6+ Kg8 17. f4 Qd7 18. Rf3 Qg4 19. Rg3 Qxg3 20. hxg3 Nd4 21. Qxe5 Ne6 22. f5 Bc5+ 23. Kh2 Bd4 24. Qd5 c6 25. Qf3 Bf6 26. fxe6 Bxe6 27. Qxf6 { White wins. } 1-0
