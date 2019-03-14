@@ -63,5 +63,12 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/XzzshqMl"
     }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "mikhail.egorov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "14-03-2019",
+    "result": "ww"
   }
 ]
