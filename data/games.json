@@ -70,5 +70,12 @@
     "tournamentId": "rapid2.mar2019",
     "date": "14-03-2019",
     "result": "ww"
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "ilya.maltsev",
+    "tournamentId": "rapid2.mar2019",
+    "date": "14-03-2019",
+    "result": "bw"
   }
 ]
