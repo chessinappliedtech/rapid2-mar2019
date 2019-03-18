@@ -16,6 +16,14 @@
     }
   },
   {
+    "playerId": "alexey.polurotov",
+    "kvalues": {
+      "classic": 40,
+      "rapid": 20,
+      "blitz": 20
+    }
+  },
+  {
     "playerId": "alexey.biryukov",
     "kvalues": {
       "classic": 40,
