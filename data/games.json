@@ -84,5 +84,27 @@
     "tournamentId": "rapid2.mar2019",
     "date": "15-03-2019",
     "result": "ww"
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "alexander.shkabara",
+    "tournamentId": "rapid2.mar2019",
+    "date": "18-03-2019",
+    "result": "bw",
+    "pgnLocation": "data/alexey.biryukov-alexander.shkabara.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/puIKdh06"
+    }
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "anatoly.morozov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "18-03-2019",
+    "result": "ww",
+    "pgnLocation": "data/ilya.maltsev-anatoly.morozov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/3PtX4KX9"
+    }                       
   }
 ]
