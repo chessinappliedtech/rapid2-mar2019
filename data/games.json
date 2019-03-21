@@ -106,5 +106,12 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/3PtX4KX9"
     }                       
+  },
+  {
+    "whiteId": "alexey.biryukov",
+    "blackId": "alexey.polurotov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "21-03-2019",
+    "result": "bw"
   }
 ]
