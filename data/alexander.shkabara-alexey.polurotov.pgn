@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019"]
+[Site "https://lichess.org/wuHQHTo9"]
+[Date "22.03.2019, 17:06:30"]
+[Round "-"]
+[White "Александр Шкабара"]
+[Black "Алексей Полуротов"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. Bf4 { D00 Queen's Pawn Game: Mason Attack } Nf6 3. e3 e6 4. c4 Bd6 5. Bxd6 Qxd6 6. Nf3 Nbd7 7. c5 Qe7 8. Nc3 c6 9. Bd3 O-O 10. O-O h6 11. h3 b6 12. b4 a5 13. a3 bxc5 14. bxc5 e5 15. dxe5 Nxe5 16. Re1 Nxf3+ 17. Qxf3 Qxc5 18. Rec1 Qd6 19. e4 Ba6 20. Bxa6 Rxa6 21. Qe2 Raa8 22. e5 Qe6 23. exf6 Qxf6 24. Na4 Rad8 25. Nc5 Rfe8 26. Qd2 d4 27. Qxa5 Rd5 28. Qa6 d3 29. Nxd3 Re2 30. Nf4 Red2 31. g3 Qd4 32. Rf1 Rg5 33. Ne2 Qe5 34. Rae1 Rxe2 35. Qxe2 Qd5 36. Qe8+ { White wins. } 1-0
