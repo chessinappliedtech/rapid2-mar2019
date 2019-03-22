@@ -117,5 +117,16 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/gEb7atmG"
     }
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "mikhail.egorov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "22-03-2019",
+    "result": "ww",
+    "pgnLocation": "data/anatoly.morozov-mikhail.egorov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/F2gXF7QX"
+    }
   }
 ]

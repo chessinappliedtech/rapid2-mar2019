@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019"]
+[Site "https://lichess.org/F2gXF7QX"]
+[Date "22.03.2019, 10:58:38"]
+[Round "-"]
+[White "Анатолий Морозов"]
+[Black "Михаил Егоров"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 { C46 Three Knights Opening } d6 4. Bb5 Bd7 5. O-O Nf6 6. d3 Nb4 7. Bxd7+ Qxd7 8. a3 Na6 9. Bg5 h6 10. Bh4 Be7 11. h3 O-O 12. Qd2 Nh5 13. Bxe7 Qxe7 14. Nd5 Qe6 15. b4 g5 16. b5 Nf4 17. Kh2 Nxd5 18. exd5 Qxd5 19. bxa6 bxa6 20. c4 Qc6 21. Rab1 Rab8 22. Rfe1 f6 23. Qe3 Rxb1 24. Rxb1 Qc5 25. Qxc5 dxc5 26. Rb7 Rf7 27. Rxa7 Rd7 28. Ne1 Kg7 29. Rxa6 e4 30. dxe4 Rd4 31. Rc6 Rxe4 32. Rxc7+ Kg6 33. Nd3 Rxc4 34. Rxc5 Ra4 35. Rc3 Rd4 36. Nc5 Rd2 37. f3 Ra2 38. a4 f5 39. Rc4 h5 40. Nb3 g4 41. hxg4 fxg4 42. fxg4 hxg4 43. Rxg4+ Kf5 44. Rb4 Ke6 45. Kh3 Ra3 46. g4 Kf6 47. Kh4 Kg6 48. a5 Kg7 49. Rb5 Kg6 50. Nc5 Ra1 51. a6 Rh1+ 52. Kg3 Kg5 53. Ne4+ Kg6 54. Rb6+ Kg7 55. a7 Ra1 56. Rb7+ Kg6 57. Nc3 Ra3 58. Rc7 Kg5 59. Kf3 Kh4 60. Kf4 Ra6 61. g5 Kh5 62. Nd5 Ra5 63. Rd7 Kg6 64. Nb6 Rxg5 65. a8=Q Rf5+ 66. Ke4 Rf7 67. Rxf7 Kxf7 68. Qd5+ Ke7 69. Ke5 Kf8 70. Qa5 Ke7 71. Nc4 Ke8 72. Kf6 Kf8 { White wins. } 1-0
