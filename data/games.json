@@ -150,5 +150,27 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/wuHQHTo9"
     }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "rapid2.mar2019",
+    "date": "25-03-2019",
+    "result": "ww",
+    "pgnLocation": "data/alexander.shkabara-alexey.shklyar.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/MWxm2zxU"
+    }
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexey.matveev",
+    "tournamentId": "rapid2.mar2019",
+    "date": "25-03-2019",
+    "result": "ww",
+    "pgnLocation": "data/anatoly.morozov-alexey.matveev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/v89MRAbh"
+    }
   }
 ]
