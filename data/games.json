@@ -172,5 +172,12 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/v89MRAbh"
     }
+  },
+  {
+    "whiteId": "alexey.polurotov",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "rapid2.mar2019",
+    "date": "26-03-2019",
+    "result": "ww"
   }
 ]
