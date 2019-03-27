@@ -201,5 +201,16 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/ee2vYMm9"
     }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "rapid2.mar2019",
+    "date": "27-03-2019",
+    "result": "ww",
+    "pgnLocation": "data/alexander.shkabara-alexander.brezgin.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/v4kFoADk"
+    }
   }
 ]
