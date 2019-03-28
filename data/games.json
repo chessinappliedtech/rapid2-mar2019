@@ -212,5 +212,16 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/v4kFoADk"
     }
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "rapid2.mar2019",
+    "date": "28-03-2019",
+    "result": "bw",
+    "pgnLocation": "data/alexander.brezgin-alexey.shklyar.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/krByQxe5"
+    }
   }
 ]
