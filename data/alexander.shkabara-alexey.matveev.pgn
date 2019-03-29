@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019"]
+[Site "https://lichess.org/6Oc6sfQ3"]
+[Date "29.03.2019, 17:40:26"]
+[Round "-"]
+[White "Александр Шкабара"]
+[Black "Алексей Матвеев"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Mason Attack"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. Bf4 { D00 Queen's Pawn Game: Mason Attack } Nf6 3. e3 b6 4. c4 Bb7 5. Nc3 dxc4 6. Nb5 Na6 7. Nf3 Nd5 8. Bg3 c6 9. Nc3 e6 10. a3 Bd6 11. Bxd6 Qxd6 12. Bxc4 c5 13. Ne5 cxd4 14. Bb5+ Ke7 15. exd4 Nac7 16. Bd3 Nf6 17. O-O Qxd4 18. Re1 Rad8 19. Re3 Ncd5 20. Nxd5+ Rxd5 21. Nf3 Qxb2 22. Rc1 Rhd8 23. Ne1 Qxa3 24. Rc7+ R8d7 25. Rxd7+ Nxd7 26. Qc2 Qd6 27. Bc4 Rc5 28. Nd3 Rc7 29. Qc3 b5 30. Nb4 Rxc4 31. Nd5+ Bxd5 32. Qe1 Nf6 33. h3 Re4 34. f3 Rxe3 35. Qxe3 a5 36. Qc1 a4 37. Qb1 b4 38. Kf2 a3 39. g4 Qc5+ 40. Kg3 Qc3 41. Qg1 Qxf3+ 42. Kh4 h6 43. Qc5+ Kd7 44. Qa7+ Bb7 45. Qa4+ Qc6 46. Qxb4 g5+ 47. Kg3 Qf3+ 48. Kh2 Qg2# { Black wins by checkmate. } 0-1

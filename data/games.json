@@ -223,5 +223,16 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/krByQxe5"
     }
+  },
+  {
+    "whiteId": "alexander.shkabara",
+    "blackId": "alexey.matveev",
+    "tournamentId": "rapid2.mar2019",
+    "date": "29-03-2019",
+    "result": "bw",
+    "pgnLocation": "data/alexander.shkabara-alexey.matveev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/6Oc6sfQ3"
+    }
   }
 ]
