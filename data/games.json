@@ -234,5 +234,16 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/6Oc6sfQ3"
     }
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexander.shkabara",
+    "tournamentId": "rapid2.mar2019",
+    "date": "29-03-2019",
+    "result": "bw",
+    "pgnLocation": "data/anatoly.morozov-alexander.shkabara.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/DjF3pO1K"
+    }
   }
 ]

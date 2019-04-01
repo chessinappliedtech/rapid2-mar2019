@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019"]
+[Site "https://lichess.org/DjF3pO1K"]
+[Date "01.04.2019, 13:31:43"]
+[Round "-"]
+[White "Анатолий Морозов"]
+[Black "Александр Шкабара"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C46"]
+[Opening "Three Knights Opening: Schlechter Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bb4 4. Nd5 Nf6 { C46 Three Knights Opening: Schlechter Variation } 5. Nxb4 Nxb4 6. a3 Nc6 7. d3 h6 8. Be2 O-O 9. O-O d5 10. h3 dxe4 11. dxe4 Nxe4 12. Bb5 Qf6 13. Re1 Bf5 14. Bxc6 Qxc6 15. Nxe5 Qc5 16. Nd3 Qc6 17. Be3 Rad8 18. f3 Ng3 19. Kh2 Bxd3 20. cxd3 Qd6 21. f4 Nh5 22. Qxh5 Rfe8 23. Bd2 Rxe1 24. Rxe1 Qxd3 25. Bc3 Rd6 26. Qe5 Rg6 27. Qe8+ Kh7 28. Re7 Qd5 29. Rxf7 Qxg2# { Black wins by checkmate. } 0-1
