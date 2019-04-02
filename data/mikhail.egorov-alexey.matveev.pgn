@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019"]
+[Site "https://lichess.org/2rFIROOF"]
+[Date "02.04.2019, 15:32:58"]
+[Round "-"]
+[White "Михаил Егоров"]
+[Black "Алексей Матвеев"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Veresov Attack, Alburt Defense"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. d4 d5 2. Nc3 Bf5 { D00 Queen's Pawn Game: Veresov Attack, Alburt Defense } 3. f3 e6 4. e4 Bg6 5. Bd3 Nf6 6. exd5 Nxd5 7. Nxd5 Qxd5 8. Bxg6 hxg6 9. c3 c5 10. Be3 cxd4 11. Qxd4 Qb5 12. Rd1 { Black wins. } 0-1

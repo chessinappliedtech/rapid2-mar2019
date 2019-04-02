@@ -256,5 +256,16 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/Wxh0LNOh"
     }
+  },
+  {
+    "whiteId": "mikhail.egorov",
+    "blackId": "alexey.matveev",
+    "tournamentId": "rapid2.mar2019",
+    "date": "02-04-2019",
+    "result": "bw",
+    "pgnLocation": "data/mikhail.egorov-alexey.matveev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/2rFIROOF"
+    }
   }
 ]
