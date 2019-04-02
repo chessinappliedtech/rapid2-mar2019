@@ -245,5 +245,16 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/DjF3pO1K"
     }
+  },
+  {
+    "whiteId": "ilya.maltsev",
+    "blackId": "alexey.polurotov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "02-04-2019",
+    "result": "ww",
+    "pgnLocation": "data/ilya.maltsev-alexey.polurotov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/Wxh0LNOh"
+    }
   }
 ]
