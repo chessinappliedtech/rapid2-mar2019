@@ -267,5 +267,12 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/2rFIROOF"
     }
+  },
+  {
+    "whiteId": "mikhail.egorov",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "rapid2.mar2019",
+    "date": "03-04-2019",
+    "result": "bw"
   }
 ]
