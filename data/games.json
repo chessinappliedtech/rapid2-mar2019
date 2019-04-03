@@ -274,5 +274,16 @@
     "tournamentId": "rapid2.mar2019",
     "date": "03-04-2019",
     "result": "bw"
+  },
+  {
+    "whiteId": "alexey.polurotov",
+    "blackId": "alexey.matveev",
+    "tournamentId": "rapid2.mar2019",
+    "date": "03-04-2019",
+    "result": "bw",
+    "pgnLocation": "data/alexey.polurotov-alexey.matveev.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/clucQWZN"
+    }
   }
 ]
