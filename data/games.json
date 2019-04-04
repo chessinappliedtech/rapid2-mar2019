@@ -285,5 +285,16 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/clucQWZN"
     }
+  },
+  {
+    "whiteId": "alexey.shklyar",
+    "blackId": "anatoly.morozov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "04-04-2019",
+    "result": "bw",
+    "pgnLocation": "data/alexey.shklyar-anatoly.morozov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/Fd4KyMTd"
+    }
   }
 ]
