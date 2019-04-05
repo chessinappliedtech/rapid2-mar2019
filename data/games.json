@@ -296,5 +296,27 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/Fd4KyMTd"
     }
+  },
+  {
+    "whiteId": "alexey.matveev",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "rapid2.mar2019",
+    "date": "05-04-2019",
+    "result": "ww",
+    "pgnLocation": "data/alexey.matveev-alexander.brezgin.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/CvHWfKN9"
+    }
+  },
+  {
+    "whiteId": "alexander.brezgin",
+    "blackId": "alexey.biryukov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "05-04-2019",
+    "result": "bw",
+    "pgnLocation": "data/alexander.brezgin-alexey.biryukov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/PqMbYjgF"
+    }
   }
 ]
