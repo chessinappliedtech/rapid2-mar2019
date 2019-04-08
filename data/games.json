@@ -350,5 +350,13 @@
       "lichess": "https://lichess.org/PqMbYjgF"
     },
     "timeControlType": "RAPID"
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexander.brezgin",
+    "tournamentId": "rapid2.mar2019",
+    "date": "08-04-2019",
+    "result": "ww",
+    "timeControlType": "RAPID"
   }
 ]
