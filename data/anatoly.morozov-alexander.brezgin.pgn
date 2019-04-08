@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019"]
+[Site "https://lichess.org/vZI5agnb"]
+[Date "08.04.2019, 16:16:15"]
+[Round "-"]
+[White "Анатолий Морозов"]
+[Black "Александр Брезгин"]
+[Result "1-0"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 { C46 Three Knights Opening } Bc5 4. Nxe5 Nxe5 5. d4 Bd6 6. dxe5 Bxe5 7. Bd2 c6 8. Bc4 Nf6 9. Rb1 d5 10. exd5 cxd5 11. Nxd5 Nxd5 12. Qe2 f6 13. Bc3 Nxc3 14. bxc3 g5 15. Qh5+ Kd7 16. Rd1+ Bd6 17. Qf7+ Qe7+ 18. Be6+ Kc6 19. Qxe7 Bxe7 20. Bd5+ Kb6 21. O-O Rd8 22. Rfe1 Kc5 23. Bb3 Rxd1 24. Rxd1 Bf5 25. Rd5+ Kc6 26. Rxf5 Re8 27. h3 Bd6 28. g3 Re5 29. Rxf6 { White wins. } 1-0

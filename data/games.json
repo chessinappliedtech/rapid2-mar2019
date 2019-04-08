@@ -357,6 +357,10 @@
     "tournamentId": "rapid2.mar2019",
     "date": "08-04-2019",
     "result": "ww",
-    "timeControlType": "RAPID"
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/anatoly.morozov-alexander.brezgin.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/vZI5agnb"
+    }
   }
 ]
