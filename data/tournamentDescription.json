@@ -48,5 +48,17 @@
       "seed": 200000
     }
   },
-  "startDay": "2019-03-04"
+  "startDay": "2019-03-04",
+  "links": [
+    {
+      "purpose": "playoff",
+      "value": "https://chessinappliedtech.github.io/rapid2mar2019playoff/",
+      "name": "Плейофф"
+    },
+    {
+      "purpose": "self",
+      "value": "https://chessinappliedtech.github.io/rapid2-mar2019/",
+      "name": "<<< Турнирная таблица"
+    }
+  ]
 }

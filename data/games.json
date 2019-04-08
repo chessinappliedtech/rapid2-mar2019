@@ -4,21 +4,24 @@
     "blackId": "mikhail.egorov",
     "tournamentId": "rapid2.mar2019",
     "date": "04-03-2019",
-    "result": "draw"
+    "result": "draw",
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.biryukov",
     "blackId": "anatoly.morozov",
     "tournamentId": "rapid2.mar2019",
     "date": "04-03-2019",
-    "result": "ww"
+    "result": "ww",
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.matveev",
     "blackId": "ilya.maltsev",
     "tournamentId": "rapid2.mar2019",
     "date": "11-03-2019",
-    "result": "bw"
+    "result": "bw",
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.biryukov",
@@ -29,7 +32,8 @@
     "pgnLocation": "data/alexey.biryukov-alexey.matveev.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/jsAgTNu2"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "ilya.maltsev",
@@ -40,7 +44,8 @@
     "pgnLocation": "data/ilya.maltsev-alexander.shkabara.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/afTy2x4k"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.shklyar",
@@ -51,7 +56,8 @@
     "pgnLocation": "data/alexey.shklyar-ilya.maltsev.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/5A5IKFV3"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "ilya.maltsev",
@@ -62,28 +68,32 @@
     "pgnLocation": "data/ilya.maltsev-alexey.biryukov.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/XzzshqMl"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexander.shkabara",
     "blackId": "mikhail.egorov",
     "tournamentId": "rapid2.mar2019",
     "date": "14-03-2019",
-    "result": "ww"
+    "result": "ww",
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexander.brezgin",
     "blackId": "ilya.maltsev",
     "tournamentId": "rapid2.mar2019",
     "date": "14-03-2019",
-    "result": "bw"
+    "result": "bw",
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "ilya.maltsev",
     "blackId": "mikhail.egorov",
     "tournamentId": "rapid2.mar2019",
     "date": "15-03-2019",
-    "result": "ww"
+    "result": "ww",
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.biryukov",
@@ -94,7 +104,8 @@
     "pgnLocation": "data/alexey.biryukov-alexander.shkabara.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/puIKdh06"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "ilya.maltsev",
@@ -105,7 +116,8 @@
     "pgnLocation": "data/ilya.maltsev-anatoly.morozov.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/3PtX4KX9"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.biryukov",
@@ -116,7 +128,8 @@
     "pgnLocation": "data/alexey.biryukov-alexey.polurotov.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/gEb7atmG"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "anatoly.morozov",
@@ -127,7 +140,8 @@
     "pgnLocation": "data/anatoly.morozov-mikhail.egorov.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/F2gXF7QX"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.matveev",
@@ -138,7 +152,8 @@
     "pgnLocation": "data/alexey.matveev-alexey.shklyar.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/MkukEHm8"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexander.shkabara",
@@ -149,7 +164,8 @@
     "pgnLocation": "data/alexander.shkabara-alexey.polurotov.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/wuHQHTo9"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexander.shkabara",
@@ -160,7 +176,8 @@
     "pgnLocation": "data/alexander.shkabara-alexey.shklyar.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/MWxm2zxU"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "anatoly.morozov",
@@ -171,14 +188,16 @@
     "pgnLocation": "data/anatoly.morozov-alexey.matveev.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/v89MRAbh"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.polurotov",
     "blackId": "alexander.brezgin",
     "tournamentId": "rapid2.mar2019",
     "date": "26-03-2019",
-    "result": "ww"
+    "result": "ww",
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "mikhail.egorov",
@@ -189,7 +208,8 @@
     "pgnLocation": "data/mikhail.egorov-alexey.shklyar.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/DJ73443R"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.shklyar",
@@ -200,7 +220,8 @@
     "pgnLocation": "data/alexey.shklyar-alexey.biryukov.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/ee2vYMm9"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexander.shkabara",
@@ -211,7 +232,8 @@
     "pgnLocation": "data/alexander.shkabara-alexander.brezgin.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/v4kFoADk"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexander.brezgin",
@@ -222,7 +244,8 @@
     "pgnLocation": "data/alexander.brezgin-alexey.shklyar.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/krByQxe5"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexander.shkabara",
@@ -233,7 +256,8 @@
     "pgnLocation": "data/alexander.shkabara-alexey.matveev.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/6Oc6sfQ3"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "anatoly.morozov",
@@ -244,7 +268,8 @@
     "pgnLocation": "data/anatoly.morozov-alexander.shkabara.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/DjF3pO1K"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "ilya.maltsev",
@@ -255,7 +280,8 @@
     "pgnLocation": "data/ilya.maltsev-alexey.polurotov.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/Wxh0LNOh"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "mikhail.egorov",
@@ -266,14 +292,16 @@
     "pgnLocation": "data/mikhail.egorov-alexey.matveev.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/2rFIROOF"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "mikhail.egorov",
     "blackId": "alexander.brezgin",
     "tournamentId": "rapid2.mar2019",
     "date": "03-04-2019",
-    "result": "bw"
+    "result": "bw",
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.polurotov",
@@ -284,7 +312,8 @@
     "pgnLocation": "data/alexey.polurotov-alexey.matveev.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/clucQWZN"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.shklyar",
@@ -295,7 +324,8 @@
     "pgnLocation": "data/alexey.shklyar-anatoly.morozov.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/Fd4KyMTd"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexey.matveev",
@@ -306,7 +336,8 @@
     "pgnLocation": "data/alexey.matveev-alexander.brezgin.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/CvHWfKN9"
-    }
+    },
+    "timeControlType": "RAPID"
   },
   {
     "whiteId": "alexander.brezgin",
@@ -317,6 +348,7 @@
     "pgnLocation": "data/alexander.brezgin-alexey.biryukov.pgn",
     "outerServiceLinks": {
       "lichess": "https://lichess.org/PqMbYjgF"
-    }
+    },
+    "timeControlType": "RAPID"
   }
 ]
