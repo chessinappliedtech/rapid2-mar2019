@@ -362,5 +362,17 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/vZI5agnb"
     }
+  },
+  {
+    "whiteId": "anatoly.morozov",
+    "blackId": "alexey.polurotov",
+    "tournamentId": "rapid2.mar2019",
+    "date": "09-04-2019",
+    "result": "bw",
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/anatoly.morozov-alexey.polurotov.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/wGjQHW1Q"
+    }
   }
 ]
