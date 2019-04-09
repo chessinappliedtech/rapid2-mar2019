@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019"]
+[Site "https://lichess.org/G2zX3xA3"]
+[Date "09.04.2019, 14:56:45"]
+[Round "-"]
+[White "Михаил Егоров"]
+[Black "Алексей Полуротов"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "C22"]
+[Opening "Center Game: Normal Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 { C22 Center Game: Normal Variation } 4. Qd3 d6 5. Nc3 Nf6 6. Nf3 Be7 7. Be3 O-O 8. O-O-O Be6 9. b3 a5 10. Nd4 Nb4 11. Qb5 Bd7 12. Qxb7 c5 13. Nf5 Rb8 14. Nxe7+ Qxe7 15. Qc7 Nxe4 16. Nxe4 Qxe4 17. Bd3 Nxd3+ 18. Rxd3 Bf5 19. Rg1 Qe5 20. Rdd1 Qc3 21. Bd4 Qxc2# { Black wins by checkmate. } 0-1
