@@ -1,0 +1,17 @@
+[Event "Быстрые шахматы №2. Март-Апрель 2019"]
+[Site "https://lichess.org/AqJAVOms"]
+[Date "10.04.2019, 14:42:28"]
+[Round "-"]
+[White "Алексей Полуротов"]
+[Black "Алексей Шкляр"]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[Termination "Unknown"]
+[Annotator "lichess.org"]
+
+1. d4 c6 2. c4 d5 3. Nc3 { D10 Slav Defense } Nf6 4. Bf4 Bf5 5. e3 e6 6. h3 dxc4 7. Bxc4 c5 8. Nf3 Nc6 9. Bb5 Bd6 10. Ne5 cxd4 11. Nxc6 bxc6 12. Bxc6+ Nd7 13. Bxa8 dxc3 14. Qxd6 Qe7 15. bxc3 e5 16. Bxe5 Nxe5 17. Qxe7+ Kxe7 18. Bd5 Bd3 19. f4 Nc4 20. Kf2 Rc8 21. Bxc4 Rxc4 22. Rac1 Ra4 23. Rhd1 Rxa2+ 24. Kg1 Be4 25. g4 Bf3 26. Rd4 g6 27. e4 f5 28. exf5 gxf5 29. Re1+ Kf6 30. Rd6+ Kg7 31. Re7+ Kf8 32. Rxh7 Rg2+ 33. Kf1 Ke8 34. Rxa7 fxg4 35. h4 { Black wins. } 0-1

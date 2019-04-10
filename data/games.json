@@ -386,5 +386,17 @@
     "outerServiceLinks": {
       "lichess": "https://lichess.org/G2zX3xA3"
     }
+  },
+  {
+    "whiteId": "alexey.polurotov",
+    "blackId": "alexey.shklyar",
+    "tournamentId": "rapid2.mar2019",
+    "date": "10-04-2019",
+    "result": "bw",
+    "timeControlType": "RAPID",
+    "pgnLocation": "data/alexey.polurotov-alexey.shklyar.pgn",
+    "outerServiceLinks": {
+      "lichess": "https://lichess.org/AqJAVOms"
+    }
   }
 ]
