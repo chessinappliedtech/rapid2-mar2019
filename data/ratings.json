@@ -1,45 +1,53 @@
 [
   {
     "playerId": "ilya.maltsev",
-    "rating": 1560.00
+    "rapid": 1560.00,
+    "blitz": 1620.00
   },
   {
     "playerId": "alexey.matveev",
-    "rating": 1520.00
+    "rapid": 1520.00,
+    "blitz": 1600.00
   },
   {
     "playerId": "alexey.biryukov",
-    "rating": 1520.00
+    "rapid": 1520.00,
+    "blitz": 1540.00
   },
   {
     "playerId": "alexey.shimeshov",
-    "rating": 1470.00
+    "rapid": 1470.00,
+    "blitz": 1420.00
   },
   {
     "playerId": "anatoly.morozov",
-    "rating": 1490.00
+    "rapid": 1490.00,
+    "blitz": 1480.00
   },
   {
     "playerId": "alexey.shklyar",
-    "rating": 1450.00
+    "rapid": 1450.00,
+    "blitz": 1440.00
   },
   {
     "playerId": "viktor.bornov",
-    "rating": 1470.00
+    "rapid": 1470.00
   },
   {
     "playerId": "alexander.brezgin",
-    "rating": 1500.00
+    "rapid": 1500.00
   },
   {
     "playerId": "alexey.polurotov",
-    "rating": 1520.00
+    "rapid": 1520.00
   },
   {
-    "playerId": "alexander.shkabara"
+    "playerId": "alexander.shkabara",
+    "blitz": 1520.00
   },
   {
-    "playerId": "vladimir.kudryakov"
+    "playerId": "vladimir.kudryakov",
+    "blitz": 1380.00
   },
   {
     "playerId": "alexander.panchenko"
